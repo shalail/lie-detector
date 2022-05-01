@@ -10,3 +10,7 @@ In this project, Arduino code was used with no library is needed and after runni
 also to check the words you say if they are true or false you need to open serial plotter in order to see the graph which checks the truth.
 YouTube link is below:
 https://www.youtube.com/watch?v=Jk1fuQyt__I
+
+Sources:
+https://www.instructables.com/Arduino-Lie-Detector/
+https://www.electronicsweekly.com/blogs/gadget-master/arduino/building-arduino-lie-detector-test-2017-10/
