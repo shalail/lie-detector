@@ -1,11 +1,6 @@
 # lie-detector
-This is a lie detector Project:
-Components:
-Arduino Nano R3
-Wires
-2k Resistor
-3 LED lights
-Arduino UNO app. 
+For this project, I have designed and built a prototype for lie-detector. 
+The purpose of this project is to be able to discover if the user is lying or saying the truth. Our skin is a great thing to know that once the person is actually saying the truth due to the rate our skin which can determine by 60. A good example of this game would be by playing with friends to know their truth about a specific topic. 
 In this project, Arduino code was used with no library is needed and after running the code we need to make sure to change the processor to ATmega328P(old bootloader).
 also to check the words you say if they are true or false you need to open serial plotter in order to see the graph which checks the truth.
 YouTube link is below:
