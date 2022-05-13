@@ -5,15 +5,18 @@ void setup()
   pinMode(3, OUTPUT);
   pinMode(4, OUTPUT);
   digitalWrite(2, HIGH);
-  delay(1000);
+  delay(500);
   digitalWrite(3, HIGH);
-  delay(1000);
+  delay(500);
   digitalWrite(4, HIGH);
-  delay(1000);
+  delay(500);
 }
 
 void loop()
 {
+  //This is to check if the wires that are attached to the user
+  //sending over 60 ,if it does send the signals to show on high on 
+  // the graph. 
   if (analogRead(A0) > 60)
   {
     digitalWrite(4, HIGH);
